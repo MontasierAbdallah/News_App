@@ -33,7 +33,7 @@ The News  App is a  project that aims to provide a consistent news reading
 * Efficient Image Loading:
     * Image loading and caching with Coil.
 * Local Data Storage:
-    * Local database management with Room .
+    * Local database management with Realm Database .
     * Key-value pair storage with DataStore.
 
 
@@ -61,8 +61,8 @@ The News  App is a  project that aims to provide a consistent news reading
 ### Installation 🛠️
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/Coding-Meet/News-KMP-App.git
+   ```
+   (https://github.com/MontasierAbdallah/News_App)
    ```
 
 2. Open in the latest version of Android Studio or intellij idea.
