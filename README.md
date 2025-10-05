@@ -43,8 +43,7 @@ The News  App is a  project that aims to provide a consistent news reading
 - [Ktor](https://ktor.io/docs/http-client-multiplatform.html) - Provides multiplatform libraries required to make
   network calls to the REST API.
 
-- [Room](https://developer.android.com/kotlin/multiplatform/room) - The Room persistence library provides an abstraction
-  layer over SQLite to allow for more robust database access while harnessing the full power of SQLite.
+- [Realm ](https://realm.io/)is a mobile database: a replacement for SQLite & ORMs. SDKs for Swift, Objective-C, Java, Kotlin, C#.
 - [DataStore](https://developer.android.com/kotlin/multiplatform/datastore) - The DataStore library stores data
   asynchronously, consistently, and transactionally, overcoming some of the drawbacks of SharedPreferences
 - [Navigation](https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-navigation-routing.html) - Navigation is
@@ -100,7 +99,7 @@ Give a ⭐️ if this project helped you!
 Your generosity is greatly appreciated! Thank you for supporting this project.
 
 ## Connect with me
-
+https://www.linkedin.com/in/montaser-abdallah-204196210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 ## Author
